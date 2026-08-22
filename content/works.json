@@ -1,27 +1,48 @@
 {
   "youtube": [
     {
-      "title": "作品タイトル 01",
-      "note": "チャンネル運用 / 登録者成長",
-      "url": "#",
+      "title": "なし",
+      "note": "なし",
+      "url": "なし",
       "thumbnail": "",
       "published": true
     }
   ],
   "shorts": [
     {
-      "title": "Shorts 01",
+      "title": "PR｜防災脱出ゲーム",
       "note": "縦型動画の制作実績",
-      "url": "#",
+      "url": "https://youtu.be/gz9fYIGJOkE?si=hOSYmyaOg0Ql5Fv_",
+      "thumbnail": "",
+      "published": true
+    },
+    {
+      "title": "PR｜夜恋",
+      "note": "縦型動画の制作実績",
+      "url": "https://youtu.be/qHKL5Ktz9mc?si=E0tZYHYWQOXS7-_V",
       "thumbnail": "",
       "published": true
     }
   ],
   "pr": [
     {
-      "title": "PR映像 01",
-      "note": "商品・サービス紹介",
-      "url": "#",
+      "title": "PR｜株式会社レアリゼ",
+      "note": "PR動画の制作実績",
+      "url": "https://youtu.be/kftqPyhsiSY?si=W32N4MzhphuYRGqj",
+      "thumbnail": "",
+      "published": true
+    },
+    {
+      "title": "DOCUMENTARY｜FDJ2 Rd.3 EBISU",
+      "note": "ドリフトの頂点を目指す10代ドライバーの挑戦を追った密着ドキュメンタリー。",
+      "url": "https://youtu.be/GAA5vT0nuSU?si=5ceF8VGu8hCUdd_8",
+      "thumbnail": "",
+      "published": true
+    },
+    {
+      "title": "PR｜BUKUGA GYM",
+      "note": "PR動画の制作実績",
+      "url": "https://youtu.be/jTp9brGivNg?si=PR4uR120SrGuKcTF",
       "thumbnail": "",
       "published": true
     }
