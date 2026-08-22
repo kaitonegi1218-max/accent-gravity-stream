@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: kaitonegi1218-max/accent-gravity-stream
+  branch: main
+
+media_folder: images/uploads
+public_folder: /accent-gravity-stream/images/uploads
+
+locale: ja
+
+collections:
+  - name: portfolio
+    label: ポートフォリオ
+    files:
+      - name: works
+        label: 動画作品
+        file: content/works.json
+        format: json
+        fields:
+          - label: YouTube運用実績
+            name: youtube
+            widget: list
+            summary: "{{fields.title}}"
+            fields: &work_fields
+              - { label: 作品タイトル, name: title, widget: string }
+              - { label: 説明, name: note, widget: string }
+              - { label: 動画URL, name: url, widget: string, hint: YouTubeなどの公開URLを入力してください }
+              - { label: サムネイル, name: thumbnail, widget: image, required: false }
+              - { label: HPに公開する, name: published, widget: boolean, default: true }
+          - label: Shorts動画実績
+            name: shorts
+            widget: list
+            summary: "{{fields.title}}"
+            fields: *work_fields
+          - label: PR制作実績
+            name: pr
+            widget: list
+            summary: "{{fields.title}}"
+            fields: *work_fields

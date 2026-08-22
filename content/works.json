@@ -1,0 +1,29 @@
+{
+  "youtube": [
+    {
+      "title": "作品タイトル 01",
+      "note": "チャンネル運用 / 登録者成長",
+      "url": "#",
+      "thumbnail": "",
+      "published": true
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Shorts 01",
+      "note": "縦型動画の制作実績",
+      "url": "#",
+      "thumbnail": "",
+      "published": true
+    }
+  ],
+  "pr": [
+    {
+      "title": "PR映像 01",
+      "note": "商品・サービス紹介",
+      "url": "#",
+      "thumbnail": "",
+      "published": true
+    }
+  ]
+}
