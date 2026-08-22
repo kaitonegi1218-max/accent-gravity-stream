@@ -1,9 +1,23 @@
 {
   "youtube": [
     {
-      "title": "なし",
-      "note": "なし",
-      "url": "なし",
+      "title": "THE FAT HATTER",
+      "note": "SNS運用支援（企画・撮影・編集・分析）",
+      "url": "https://www.youtube.com/watch?v=RjWUrkIGm_I",
+      "thumbnail": "",
+      "published": true
+    },
+    {
+      "title": "音楽深化論",
+      "note": "SNS運用支援（撮影・編集）",
+      "url": "https://youtu.be/A9bXeBCjSxo?si=ByIyBovh0mexaMB9",
+      "thumbnail": "",
+      "published": true
+    },
+    {
+      "title": "ばんばんざい",
+      "note": "SNS運用支援（企画・撮影）",
+      "url": "https://youtu.be/TFba0JrLPJc?si=TleWrxUL1G_sVPLF",
       "thumbnail": "",
       "published": true
     }
