@@ -6,7 +6,7 @@ backend:
   branch: main
 
 media_folder: images/uploads
-public_folder: /accent-gravity-stream/images/uploads
+public_folder: /images/uploads
 
 locale: ja
 
