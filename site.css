@@ -6,7 +6,7 @@ a{color:inherit;text-decoration:none}
 .mono{font-family:"JetBrains Mono",monospace}
 .display{font-family:Oswald,"Noto Sans JP",sans-serif;text-transform:uppercase}
 .site-header{position:fixed;z-index:100;top:0;right:0;left:0;display:flex;align-items:center;justify-content:space-between;padding:20px 5vw;background:linear-gradient(to bottom,rgba(5,4,12,.96),rgba(5,4,12,.58),transparent)}
-.logo{font-size:15px;letter-spacing:.14em;white-space:nowrap}.logo span{margin:0 8px;color:var(--accent)}
+.logo{color:var(--text);font-size:15px;letter-spacing:.14em;white-space:nowrap}.logo .logo-accent{color:var(--accent)}.logo .logo-word{margin-left:8px}
 .nav{display:flex;gap:28px;align-items:center}.nav a{position:relative;color:var(--dim);font-size:11px;letter-spacing:.14em}.nav a:hover,.nav a.active{color:var(--text)}.nav a.active:after{position:absolute;right:0;bottom:-8px;left:0;height:1px;background:var(--accent);content:""}
 .menu-toggle{display:none;border:0;background:none;color:var(--text);font-size:24px;cursor:pointer}
 .hero{position:relative;display:flex;min-height:100svh;overflow:hidden;flex-direction:column;justify-content:flex-end;padding:0 6vw 10vh}
